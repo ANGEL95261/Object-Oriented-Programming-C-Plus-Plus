@@ -1,5 +1,5 @@
 /***
- * This lab is demonstrating that my IDE is properly set up 
+ * I am using the "hello world" example to show my github account and repository are properly set up
 ***/
 
 #include <iostream>
