@@ -2,7 +2,17 @@
 
 using namespace std;
 
-//sumOfThree function goes here
+/** sumOfThree
+ * @brief returns the sum of x, y, and z
+ * 
+ * @param x : (int)
+ * @param y : (int)
+ * @param z : (int)
+ * @return int
+*/
+int sumOfThree(int x, int y, int z)
+{
+}
 
 //division function goes here
 
