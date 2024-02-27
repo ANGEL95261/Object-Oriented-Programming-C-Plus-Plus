@@ -12,6 +12,8 @@ using namespace std;
 */
 int sumOfThree(int x, int y, int z)
 {
+    int sum = x + y + z;
+    return sum;
 }
 
 /** division
@@ -23,6 +25,7 @@ int sumOfThree(int x, int y, int z)
 */
 double division(double x, double y)
 {
+    
 }
 
 /** isGreaterThan
