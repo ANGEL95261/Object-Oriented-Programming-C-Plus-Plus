@@ -42,9 +42,9 @@ bool isGreaterThan(double x, int y)
     bool isGreater;
 
     if ( x > y){
-        bool isGreater == true;
+        bool isGreater = true;
     } else{
-        bool isGreater == false;
+        bool isGreater = false;
     }
 
     return isGreater;
