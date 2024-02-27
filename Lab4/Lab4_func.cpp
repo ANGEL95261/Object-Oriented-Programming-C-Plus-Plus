@@ -37,8 +37,26 @@ bool isGreaterThan()
 {
 }
 
-//select function goes here
+/** @brief output the statements based on func_type
+ * func_type : output
+ * "sum"            : "The sum is "
+ * "division"       : "The quotient is "
+ * "comparison"     : "The first value being greater than the second value is "
+ *  All other phrases: "Invalid function type\n"
+ * @param func_type : (string)
+ * @return string
+*/
+string select(string func_type)
+{
+}
 
+/** myPrint
+ * @brief Calls select() to print out the output with the correct prompt
+ * 
+ * @tparam T : (int, double, or string) output of sum, division, or isGreaterThan
+ * @param func_type : (string)
+ * @param output
+*/
 template <typename T>
 void myPrint(string func_type, T output){
     cout << select(func_type) << output << endl;
