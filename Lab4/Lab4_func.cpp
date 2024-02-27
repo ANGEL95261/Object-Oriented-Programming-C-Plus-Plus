@@ -25,7 +25,8 @@ int sumOfThree(int x, int y, int z)
 */
 double division(double x, double y)
 {
-    
+    double quotient = x / y;
+    return quotient;
 }
 
 /** isGreaterThan
