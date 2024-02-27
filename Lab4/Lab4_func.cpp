@@ -14,7 +14,16 @@ int sumOfThree(int x, int y, int z)
 {
 }
 
-//division function goes here
+/** division
+ * @brief returns x / y
+ * 
+ * @param x : (double)
+ * @param y : (double)
+ * @return double
+*/
+double division(double x, double y)
+{
+}
 
 //isGreaterThan function goes here
 
