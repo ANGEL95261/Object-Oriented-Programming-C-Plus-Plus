@@ -25,7 +25,17 @@ double division(double x, double y)
 {
 }
 
-//isGreaterThan function goes here
+/** isGreaterThan
+ * @brief returns whether x is greater than y
+ * 
+ * @param x : (double)
+ * @param y : (double)
+ * @return true : x is greater than y
+ * @return false : x is less than or equal to y
+*/
+bool isGreaterThan()
+{
+}
 
 //select function goes here
 
