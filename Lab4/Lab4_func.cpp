@@ -39,6 +39,15 @@ double division(double x, double y)
 */
 bool isGreaterThan()
 {
+    bool isGreater;
+    
+    if ( x > y){
+        bool isGreater == true;
+    } else{
+        bool isGreater == false;
+    }
+
+    return isGreater;
 }
 
 /** @brief output the statements based on func_type
