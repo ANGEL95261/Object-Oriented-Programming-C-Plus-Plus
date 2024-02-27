@@ -37,10 +37,10 @@ double division(double x, double y)
  * @return true : x is greater than y
  * @return false : x is less than or equal to y
 */
-bool isGreaterThan()
+bool isGreaterThan(double x, int y)
 {
     bool isGreater;
-    
+
     if ( x > y){
         bool isGreater == true;
     } else{
